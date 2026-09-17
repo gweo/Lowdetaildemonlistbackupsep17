@@ -76,7 +76,8 @@ export default {
                                 <a :href="record.link" target="_blank" class="type-label-lg">{{ record.user }}</a>
                             </td>
                             <td class="mobile">
-                                <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store?.dark ? '-dark' : ''}.svg\`" alt="Mobile">
+                                <img v-if="record.mobile" :src="store.dark ? '/assets/phone-landscape-dark.png' : '/assets/phone-landscape.png'" alt="Mobile">
+
                             </td>
                             <td class="hz">
                                 <p>{{ record.hz }}Hz</p>
