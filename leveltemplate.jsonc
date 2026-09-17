@@ -1,0 +1,21 @@
+{
+    "id": 0,
+    "name": "Level_Name",
+    "author": "publisher",
+    "creators": ["creator, author"],
+    "verifier": "verifier",
+    "type": "XL",
+    "verification": "https://youtu.be/youtubelink",
+    "percentToQualify": "66",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "victor",
+            "link": "https://www.youtube.com/???",
+            "percent": 100,
+            "hz": "?/?/??"
+        }
+    ]
+}
+
+// hz is completion date btw just so you know not hz

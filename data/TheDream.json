@@ -1,0 +1,55 @@
+{
+    "id": 143565418,
+    "name": "The Dream",
+    "author": "geodasher9908",
+    "creators": ["geodasher9908"],
+    "verifier": "Kinder",
+    "type": "Long",
+    "verification": "https://youtu.be/ZwLLQ2KPFJo?si=O5n3CggCkV0Gr-aK",
+    "percentToQualify": "52",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Sinan",
+            "link": "https://youtu.be/l4QzranEOJs",
+            "percent": 100,
+            "hz": "7/11/2026"
+        },
+      {
+            "user": "S.O.S",
+            "link": "https://youtu.be/jlWBX7aQVu4?si=iMF-PqOtdtoQsfw3",
+            "percent": 100,
+            "hz": "7/26/2026"
+        },
+       {
+            "user": "HJH4903",
+            "link": "https://youtube.com/shorts/tZYm9BWrlSU?si=ZqsrVX6fUmXHzyfX",
+            "percent": 100,
+            "hz": "7/28/2026"
+        },
+      {
+            "user": "KayogreGD",
+            "link": "https://youtu.be/KfhGiKvLuTU?si=lYKiNouCDZoGlCCx",
+            "percent": 100,
+            "hz": "8/26/2026"
+        },
+      {
+            "user": "7xv",
+            "link": "https://www.youtube.com/watch?v=P0W5K5A8W28",
+            "percent": 100,
+            "hz": "?/??/????"
+        },   
+        {
+            "user": "Lukas",
+            "link": "https://https://youtu.be/fq6iNRR7Bew?feature=shared",
+            "percent": 100,
+            "hz": "8/30/2026"
+        },  
+        {
+            "user": "fev",
+            "link": "https://youtu.be/jDhjdpJTesE?feature=shared",
+            "percent": 100,
+            "hz": "9/6/2026"
+        }
+    ]
+}

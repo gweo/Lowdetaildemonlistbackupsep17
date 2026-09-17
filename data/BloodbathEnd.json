@@ -1,0 +1,37 @@
+{
+    "id": 13058863,
+    "name": "Bloodbath End",
+    "author": "CeaserSalad99",
+    "creators": ["CeaserSalad99, Riot"],
+    "verifier": "Freenora",
+    "type": "Short",
+    "verification": "https://youtu.be/MVCpF6ld5E4",
+    "percentToQualify": "100",
+    "password": "Locked",
+    "records": [
+        {
+            "user": "Thomas",
+            "link": "https://www.youtube.com/watch?v=FFZvrOcYgWg",
+            "percent": 100,
+            "hz": "7/26/2026"
+        },
+      {
+            "user": "Adur",
+            "link": "https://www.youtube.com/watch?v=p3LSO-wsJJc",
+            "percent": 100,
+            "hz": "7/29/2026"
+        },
+      {
+            "user": "Lukas",
+            "link": "https://www.youtube.com/watch?v=a5DFfV2ns3Y",
+            "percent": 100,
+            "hz": "9/1/2026"
+        },
+      {
+            "user": "Earl",
+            "link": "https://www.youtube.com/watch?v=TjK76kUarVs",
+            "percent": 100,
+            "hz": "9/4/2026"
+        }
+    ]
+}
