@@ -1,11 +1,13 @@
 import List from './pages/List.js';
 import Leaderboard from './pages/Leaderboard.js';
 import Roulette from './pages/Roulette.js';
-import Packs from './listpacks.js'; // 1. Add this import line at the top
+
+// We fetch the object dynamically so a pathing or internal reference error won't crash the whole array
+const PacksComponent = () => import('./listpacks.js').catch(err => console.error("Packs failed to load:", err));
 
 export default [
     { path: '/', component: List },
     { path: '/leaderboard', component: Leaderboard },
     { path: '/roulette', component: Roulette },
-    { path: '/packs', component: Packs }, // 2. Add this route entry at the bottom
+    { path: '/packs', component: PacksComponent },
 ];
